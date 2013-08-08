@@ -1,0 +1,23 @@
+.mostrando{
+	width: 100px;
+	text-align: center;
+	font-size: 20px;
+}
+#tabla_calificaciones{
+	margin-top: 50px;
+	float: left;
+	margin-left: 100px;
+	width: 100px;
+	text-align: center;
+	font-size: 20px;
+}
+#actualizar{
+	float: left;
+	margin-left: 100px;
+	
+}
+#ayuda{
+	float: left;
+	margin-left: 150px;
+	margin-top: 50px;
+}

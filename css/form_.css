@@ -1,0 +1,41 @@
+.form_{
+	
+	margin-left: 10%;
+	position: relative;
+	margin-top: 30px;
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+	border-radius: 5px;
+
+}
+#boton_mat.form_{
+	width: 100px;
+	color: #FFFFFF;
+	background: #0968E6;
+
+}
+
+table td{
+	border: 1px solid;
+	text-align: center;
+	margin-left: 10%;
+	font-size: 18px;
+}
+#nombre_alumno{
+	position: relative;
+	text-align: center;
+}
+#carrera_alumno{
+	position: relative;
+	text-align: center;
+	margin-left: 10%;
+
+}
+#matricula_alumno{
+	position: relative;
+	text-align: center;
+	
+}
+
+
